@@ -18,3 +18,4 @@
 assets
 logs
 *.log
+go.sum
